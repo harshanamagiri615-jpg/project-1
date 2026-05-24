@@ -1,5 +1,23 @@
-*{
-    background-color: black;
-    color:black;
-    
+
+.info-card{
+    border: 3px solid blue;
+    padding: 20px;
+    width: 250px;
+}
+
+
+#card1{
+    background-color:red;
+}
+
+
+#card2{
+    background-color: lightyellow;
+}
+
+.action-btn{
+    background-color: green;
+    color: white;
+    padding: 10px;
+    border: none;
 }
